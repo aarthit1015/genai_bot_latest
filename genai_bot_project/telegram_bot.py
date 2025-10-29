@@ -15,7 +15,7 @@ warnings.filterwarnings("ignore", category=FutureWarning)
 logger = setup_logger("telegram_bot")
 
 # TOKEN = os.environ.get("TELEGRAM_TOKEN")
-TOKEN = "8242970480:AAESONEEdIYYM9MZ9RMb4r5zte1uKTdYq2g"
+TOKEN = "BOT TOKEN"
 if not TOKEN:
     logger.error("Set TELEGRAM_TOKEN environment variable")
     raise SystemExit("TELEGRAM_TOKEN not set")
@@ -113,3 +113,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
