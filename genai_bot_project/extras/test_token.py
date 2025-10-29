@@ -1,7 +1,7 @@
 import requests
 
 #  Hardcode your Telegram Bot Token here:
-TOKEN = "8242970480:AAESONEEdIYYM9MZ9RMb4r5zte1uKTdYq21"
+TOKEN = "BOT KEY"
 
 # Safety check
 if not TOKEN or TOKEN.strip() == "":
@@ -26,3 +26,4 @@ try:
 
 except Exception as e:
     print("⚠️ Network or API error:", e)
+
