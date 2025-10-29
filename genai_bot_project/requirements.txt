@@ -1,0 +1,15 @@
+python-telegram-bot==20.8
+transformers==4.44.2
+sentence-transformers==2.2.2
+huggingface-hub==0.16.4
+torch>=2.0.0
+Pillow
+numpy
+faiss-cpu  # optional: if you want faster similarity (use instead of simple numpy)
+pytest
+tqdm
+
+#pip install huggingface-hub==0.16.4
+#pip uninstall -y huggingface-hub
+#pip install --upgrade transformers torch
+

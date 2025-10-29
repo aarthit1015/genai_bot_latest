@@ -1,0 +1,10 @@
+FAQ - Company Help
+
+Q: How can I reset my password?
+A: Go to the settings page and click "Forgot Password." Follow the email link sent to you.
+
+Q: What are your customer support hours?
+A: Our support team is available Monday to Friday, 9 AM to 6 PM.
+
+Q: How can I update my account information?
+A: Log in and go to "My Profile" → "Edit Details" → Save.
